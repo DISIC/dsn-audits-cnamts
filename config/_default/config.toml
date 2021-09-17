@@ -1,0 +1,15 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = 'Affaires sociales'
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+
+[params]
+  organisation = "Ministère des Affaires sociales"
+  robots = "noindex, nofollow"
