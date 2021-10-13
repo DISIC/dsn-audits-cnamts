@@ -55,7 +55,7 @@
 "9","2","c","c","c"
 "9","3","c|Les liens du footer pourraient être contenus dans une liste non ordonnée <ul>","c|Les liens du footer pourraient être contenus dans une liste non ordonnée <ul>","c|Les liens du footer pourraient être contenus dans une liste non ordonnée <ul>"
 "9","4","na","na","na"
-"10","1","nc|De nombreux attributs style sont utilisés pour contrôler la présentation de l'information (ex sur le header : style=""height: 12px; margin-top: 0px; transform: translateY(0px); left: 0px; right: 0px;"")","nc|De nombreux attributs style sont utilisés pour contrôler la présentation de l'information (ex sur le header : style=""height: 12px; margin-top: 0px; transform: translateY(0px); left: 0px; right: 0px;"")","nc|De nombreux attributs style sont utilisés pour contrôler la présentation de l'information (ex sur le header : style=""height: 12px; margin-top: 0px; transform: translateY(0px); left: 0px; right: 0px;"")"
+"10","1","c","c","c"
 "10","2","c","c","c"
 "10","3","c|Le bouton ""fermer"" du panneau de déconnexion (petits écrans) reste afficher alors qu'il ne sert à rien","c|Il est recommandé d'attribuer une largeur aux éléments SVG via l'attribut width pour qu'ils n'apparaissent pas trop grand (plein écran...) lorsque les feuilles de style sont désactivées. Ici c'est l'icone représentant l'utilisateur connecté qui s'affiche en grand dans ce cas.","c|Le bouton ""fermer"" du panneau de déconnexion (petits écrans) reste afficher alors qu'il ne sert à rien"
 "10","4","c","c","c"
