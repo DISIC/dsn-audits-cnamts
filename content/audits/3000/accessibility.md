@@ -1,5 +1,4 @@
 ---
-title: Audit Accessibilité
 description: Étude de la conformité RGAA des pages du site.
 date: 2021-09-04
 type: accessibility
